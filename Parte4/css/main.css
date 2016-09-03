@@ -1,0 +1,35 @@
+.caja{
+
+width: 100px;
+height:25%;
+float: left;
+
+}
+
+.yellow{
+	background-color: yellow;
+
+}
+.blue {
+	background-color: blue;
+
+}
+
+.red{
+	background-color: red;
+}
+
+.container{
+	height: 300px;
+	width: 600px;
+	border: 2px gray solid;
+	clear: both;
+	display: block;
+	clear: both;
+}
+
+body, .caja, .container{
+	margin: 0;
+    padding: 0;
+    border: 0;
+}
